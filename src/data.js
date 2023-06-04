@@ -1,0 +1,77 @@
+const menu = [
+  {
+    id: 1,
+    title: 'Dosa',
+    category: 'breakfast',
+    price: 15.99,
+    img: '/images/item-1.jpg',
+    desc: `A dosa, also called dosai, is a thin pancake in South Indian cuisine made from a fermented batter of ground black lentils and rice. Dosas are popular in South Asia as well as around the world. Dosas are served hot, often with chutney and sambar. `,
+  },
+  {
+    id: 2,
+    title: 'Banana Leaf meal',
+    category: 'lunch',
+    price: 13.99,
+    img: '/images/item-2.jpg',
+    desc: `This is called a banana leaf platter. It is a traditional South-Indian method of serving rice dishes. In banana leaf Indian cuisine, you can typically find white rice (or parboiled rice) served on a banana leaf with an assortment of vegetables, pickles, appalam, and other regional condiments.
+ `,
+  },
+  {
+    id: 3,
+    title: 'Lassi',
+    category: 'shakes',
+    price: 6.99,
+    img: '/images/item-3.webp',
+    desc: `Lassi is an Indian yogurt–based beverage with a smoothie-like consistency. It has been called "the most popular and traditional yogurt-based drink" in India.`,
+  },
+  {
+    id: 4,
+    title: 'Poha',
+    category: 'breakfast',
+    price: 20.99,
+    img: '/images/item-4.jpeg',
+    desc: `Poha, also known as pauwa, sira, chira, aval or avalakki-in Kannada language, among many other names, is flattened rice originating from the Indian subcontinent. Rice is parboiled before flattening so that it can be consumed with very little to no cooking.`,
+  },
+  {
+    id: 5,
+    title: 'Chicken briyani',
+    category: 'lunch',
+    price: 22.99,
+    img: '/images/item-5.png',
+    desc: `This is called a banana leaf platter. It is a traditional South-Indian method of serving rice dishes. In banana leaf Indian cuisine, you can typically find white rice (or parboiled rice) served on a banana leaf with an assortment of vegetables, pickles, appalam, and other regional condiments.27-Apr-2022
+ `,
+  },
+  {
+    id: 6,
+    title: 'payasam',
+    category: 'shakes',
+    price: 18.99,
+    img: '/images/item-6.jpg',
+    desc: `Kheer, also known as payasam, is a sweet dish and a type of wet pudding popular in the Indian subcontinent, usually made by boiling milk, sugar or jaggery, and rice, although rice may be substituted with one of the following: daals, bulgur wheat, millet, tapioca, vermicelli, or sweet corn`,
+  },
+  {
+    id: 7,
+    title: 'Vadai',
+    category: 'breakfast',
+    price: 8.99,
+    img: '/images/item-7.jpg',
+    desc: `Vada is a category of savoury fried snacks native to South India. Vadas can be described variously as fritters, cutlets, or dumplings. Alternative names for this food include vadai, vade, and bada. Vadas are sometimes stuffed with vegetables and traditionally served with chutneys and sambar.  `,
+  },
+  {
+    id: 8,
+    title: 'Puliyogare',
+    category: 'lunch',
+    price: 12.99,
+    img: '/images/item-8.webp',
+    desc: `In many South Indian households, Puliyogare is very common breakfast or lunch recipe. Basically, puliyogare is mix of left over rice and spices with tamarind and jaggery. these would result in a combination of sweet and tangy rice.  `,
+  },
+  {
+    id: 9,
+    title: 'Tender-Coconut juice',
+    category: 'shakes',
+    price: 16.99,
+    img: '/images/item-9.jpg',
+    desc: `Young, fresh and healthy tender coconuts are a pure, tasty and nutritious energy drink that keeps body hydrated round the clock.`,
+  },
+]
+export default menu;
