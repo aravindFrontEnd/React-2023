@@ -42,6 +42,7 @@ const App = () => {
     const newItems = items.filter( item => item.id !== itemId);
 
     setItems(newItems)
+      setLocalStorage(newItems)
     toast.info('item deleted')
 
   }
